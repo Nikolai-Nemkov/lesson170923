@@ -21,5 +21,6 @@ else if (num1 < num2)
 else 
 {
     Console.WriteLine("Оба числа равны");
+    
 }
 Console.Readkey();
