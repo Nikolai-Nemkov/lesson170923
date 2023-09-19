@@ -10,4 +10,4 @@ Write(count <= n)
 {
     Consoie.Write($"{count} ");
     count = count + 1;  // либо count++;
-}
+} 

@@ -22,3 +22,4 @@ else
     Console.Writeline($"первое число - {firstNumber}, второе число = {secondNumber} -> Нет");
 }
 
+.
