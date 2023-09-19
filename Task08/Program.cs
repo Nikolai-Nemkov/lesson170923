@@ -4,7 +4,7 @@
 //           8 -> 2, 4, 6, 8
 
 using System;
-class HelloWorld {
+class Program {
   static void Main() {
     Console.Write("Введите число: ");
     int number = Convert.ToInt32(Console.ReadLine());
